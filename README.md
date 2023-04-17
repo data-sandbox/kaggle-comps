@@ -1,2 +1,3 @@
 # kaggle-comps
-Kaggle competitions
+
+Sandbox for various Kaggle competitions.
